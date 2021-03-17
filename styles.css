@@ -1,4 +1,25 @@
 img {
   float:left;
-  width: 100px;
+  width: 250px;
+  margin: 15px;
+  border: 10px red;
+  padding: 50px;
+  background-color: black;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+div {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 25px;
+}
+
+p{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img.one {
+  float:right;
 }
